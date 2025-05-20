@@ -1,6 +1,7 @@
 # Quickstart
 
 1. Run
+
 Use Java <=21
 
 ./gradlew quarkusDev
